@@ -1,2 +1,8 @@
 /node_modules
 .env
+# GitHub Actions
+.github/workflows/*.bak
+.github/workflows/*.log
+.github/workflows/*.tmp
+.github/workflows/
+.github/workflows/*
